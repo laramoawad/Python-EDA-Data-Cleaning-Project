@@ -1,1 +1,1 @@
-# Python-EDA-Project-Data-Cleaning
+# In this project I manipulate data, Filter, add, and remove columns. i also handle missing values, Aggregate data with GroupBy and Pivot Tables, and use advanced functionalities like shift, rank, and rolling functions. 
